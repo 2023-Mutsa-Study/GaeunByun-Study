@@ -1,0 +1,14 @@
+{
+  "name": "gaeunbyun-study",
+  "version": "1.0.0",
+  "description": "GaeunB repository  \r 성균관대학교 멋쟁이사자처럼 11기 변가은 과제 깃허브",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
